@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="504pt" viewBox="0 0 504 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-10-27T19:59:23.570114</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 504 504 
+L 504 0 
+L 0 0 
+L 0 504 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="PathCollection_1">
+    <defs>
+     <path id="C0_0_9fa9e81cc6" d="M 0 4.472136 
+C 1.186024 4.472136 2.323632 4.000923 3.162278 3.162278 
+C 4.000923 2.323632 4.472136 1.186024 4.472136 -0 
+C 4.472136 -1.186024 4.000923 -2.323632 3.162278 -3.162278 
+C 2.323632 -4.000923 1.186024 -4.472136 0 -4.472136 
+C -1.186024 -4.472136 -2.323632 -4.000923 -3.162278 -3.162278 
+C -4.000923 -2.323632 -4.472136 -1.186024 -4.472136 0 
+C -4.472136 1.186024 -4.000923 2.323632 -3.162278 3.162278 
+C -2.323632 4.000923 -1.186024 4.472136 0 4.472136 
+z
+"/>
+    </defs>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="78.12" style="fill: #db5f57; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="107.52" style="fill: #db9c57; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="136.92" style="fill: #dbd957; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="166.32" style="fill: #a0db57; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="195.72" style="fill: #63db57; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="225.12" style="fill: #57db87; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="254.52" style="fill: #57dbc5; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="283.92" style="fill: #57b5db; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="313.32" style="fill: #5778db; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="342.72" style="fill: #7357db; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="372.12" style="fill: #b057db; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="401.52" style="fill: #db57c9; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+    <g clip-path="url(#p1474c0334e)">
+     <use xlink:href="#C0_0_9fa9e81cc6" x="258.3" y="430.92" style="fill: #db578c; stroke: #ffffff; stroke-width: 0.715542"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1474c0334e">
+   <rect x="63" y="60.48" width="390.6" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>
