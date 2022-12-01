@@ -31,7 +31,7 @@ def read_data(path, raw=False):
         labels = np.load(os.path.join(path, "raw_trues.npy"),allow_pickle=True)
     else:
         embeddings = np.load(os.path.join(path, "embeddings_2d.npy"), allow_pickle=True)
-        labels = np.load(os.path.join(path, "preds.npy"), allow_pickle=True)
+        labels = np.load(os.path.join(path, "all_pred.npy"), allow_pickle=True)
 
 
     data_df = pd.DataFrame({
@@ -58,8 +58,8 @@ def read_data(path, raw=False):
 # path = 'result/gse_emtab/human_mouse'
 # save_path = 'emtab_gsemouse_raw'
 
-path = 'result_new/gse/mouse_human'
-save_path = 'gsemouse_gsehuman_emb_new'
+# path = 'result_new/gse/mouse_human'
+# save_path = 'gsemouse_gsehuman_emb_new'
 
 # path = 'result_new/gse/human_mouse'
 # save_path = 'gsehuman_gsemouse_emb_new'
@@ -67,11 +67,12 @@ save_path = 'gsemouse_gsehuman_emb_new'
 # path = 'result_new/gse_emtab/mouse_human'
 # save_path = 'gsemouse_emtab_emb_new'
 #
-# path = 'result_new/gse_emtab/human_mouse'
-# save_path = 'emtab_gsemouse_emb_new'
+path = 'result_new/gse_emtab/human_mouse'
+save_path = 'emtab_gsemouse_emb_new'
 
-# data_df = read_data(path, False)
-# plot_cluster(data_df, save_path)
+
+data_df = read_data(path, False)
+plot_cluster(data_df, save_path)
 
 # 单独绘制图例
 # label = list(set(data_df['label'].tolist()))
@@ -89,4 +90,4 @@ save_path = 'gsemouse_gsehuman_emb_new'
 # axs.axis('off')
 # plt.savefig('colorbar_11.svg', dpi=600, transparent=True)
 # plt.show()
-#
+# exit()
